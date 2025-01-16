@@ -1,4 +1,4 @@
-                                                                                                  # Home Service Web App
+ # Home Service Web App
 
 ## 📋 Table of Contents
 - 🤖 [Introduction](#introduction)
